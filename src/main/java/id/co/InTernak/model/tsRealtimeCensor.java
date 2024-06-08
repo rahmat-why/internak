@@ -1,7 +1,7 @@
 package id.co.InTernak.model;
 
 import jakarta.persistence.*;
-import net.sf.jsqlparser.expression.DateTimeLiteralExpression.*;
+
 
 import java.math.BigDecimal;
 import java.time.LocalDateTime;

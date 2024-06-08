@@ -1,6 +1,6 @@
 package id.co.InTernak.vo;
 
-import net.sf.jsqlparser.expression.DateTimeLiteralExpression.*;
+
 
 import java.math.BigDecimal;
 import java.time.LocalDateTime;
